@@ -14,6 +14,7 @@ For Backend
 2) Spring MVC
 3) Spring REST
 4) Spring DataJPA
+5) Lombok API
 
 Database
 -----------
